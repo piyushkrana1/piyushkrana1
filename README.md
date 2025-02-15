@@ -1,5 +1,6 @@
 <h1 align="center">Hi there 👋 I'm Piyush kumar Rana, thanks for visiting my profile ❤️</h1>
-<h3 align="center">A Sophomore MTech student in Computer Science from IIIT Hyderabad</h3>
+<h3 align="center">I pursued M.Tech from IIIT Hyderabad and am currently working as a software developer.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushkrana1&label=Profile%20views&color=0e75b6&style=flat" alt="piyushkrana1" /> </p>
 
